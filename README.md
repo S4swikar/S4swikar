@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S4swikar
-- 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning AI ,ML.
+- 👀 I’m interested in ...Web Development
+- 🌱 I’m currently learning JavaScript,React
 - 💞️ I’m looking to collaborate on enhancing my skill.
 - 📫 How to reach me .. swikargaire@gmail.com
 
